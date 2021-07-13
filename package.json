@@ -1,0 +1,22 @@
+{
+  "name": "testcafe",
+  "version": "1.0.0",
+  "description": "front end automation using TestCafe framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dami-na/TestCafe.git"
+  },
+  "author": "dna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dami-na/TestCafe/issues"
+  },
+  "homepage": "https://github.com/dami-na/TestCafe#readme",
+  "devDependencies": {
+    "testcafe": "^1.15.0"
+  }
+}
